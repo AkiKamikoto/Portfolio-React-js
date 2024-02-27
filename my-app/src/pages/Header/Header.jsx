@@ -1,5 +1,4 @@
 import "./header.css"
-import Back from './images.jpg'
 function Header(){
     return(
         <div className="header-container">

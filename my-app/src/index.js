@@ -2,7 +2,6 @@ import React from 'react';
 import "./style/reset.css"
 import ReactDOM from 'react-dom/client';
 
-import App from './App';
 import Navbar from './pages/Navbar/Navbar'
 import Header from './pages/Header/Header'
 import Stack from './pages/My-Stack/MyStack'
