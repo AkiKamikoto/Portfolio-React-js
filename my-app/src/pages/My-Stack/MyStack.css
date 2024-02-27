@@ -1,5 +1,6 @@
 .info{
-    height: 400px;
+    background-color: rgba(255, 255, 255, 0.792);
+    height: 350px;
     display: flex;
     justify-content: center;
     align-items: center;
