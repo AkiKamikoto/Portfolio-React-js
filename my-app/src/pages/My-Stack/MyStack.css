@@ -1,0 +1,16 @@
+.info{
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+    font-size: 24px;
+}
+
+.frontend-info{
+    margin-top: 40px;
+}
+.backend-info{
+    margin-top: 25px;
+}
